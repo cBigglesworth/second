@@ -1,0 +1,15 @@
+{
+	"index.html": {
+		"resources": [
+			"script/api.js",
+			"css/api.css",
+			"icon/icon150x150.png",
+			"launch/launch1080x1920.png",
+			"css/index.css",
+			"image/nanzhuan.jpg",
+			"script/index.js",
+			"background/Joy Gruttmann - Schnappi.mp3",
+			"image/limingyu.png"
+		]
+	}
+}

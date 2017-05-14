@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css"/>
+	<script type="text/javascript" src="script/index.js">
+		
+	</script>
+</head>
+<body>
+		<p id="dog">李明禹不是1秒么？</p>
+		<!--<img src="image/nanzhuan.jpg"/>-->
+		<!--<a href="http://www.baidu.com">百度一下</a>-->
+		<p id="time"><span>0</span>s</p>
+		<p id="answer"></p>
+		<div id="anle">
+		</div>
+</body>
+</html>

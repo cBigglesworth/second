@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css"/>
+	<script type="text/javascript" src="script/index.js">
+		
+	</script>
+</head>
+<body>
+		<!--标题区-->
+		<input type="button" name="stop" id="stop" value="暂停" />
+		<p id="dog">李明禹不是1秒么？</p>
+		<!--标题区结束-->
+		
+		<!--记录时间-->
+		<p id="time"><span>0</span>s</p>
+		<!--记录时间结束-->
+		
+		<!--反馈区-->
+		<p id="answer"><audio src="background/Joy Gruttmann - Schnappi.mp3"autoplay="autoplay" id="music"></audio></p> 
+		<!--反馈区结束-->
+
+		<!--按键区-->
+		<div id="anle">
+		</div>
+		<!--按键区结束-->
+</body>
+</html>

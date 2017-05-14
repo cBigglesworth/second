@@ -1,0 +1,10 @@
+{
+	"index.html": {
+		"resources": [
+			"script/index.js",
+			"css/index.css",
+			"background/Joy Gruttmann - Schnappi.mp3",
+			"image/limingyu.png"
+		]
+	}
+}
